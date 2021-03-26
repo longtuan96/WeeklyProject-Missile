@@ -1,0 +1,9 @@
+* {
+  box-sizing: border-box;
+}
+
+#canvas {
+  background-color: #eee;
+  display: block;
+  margin: 0 auto;
+}
