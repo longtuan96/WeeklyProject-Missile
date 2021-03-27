@@ -1,9 +1,13 @@
 * {
   box-sizing: border-box;
 }
+body {
+  margin: 0;
+}
 
-#canvas {
-  background-color: #eee;
-  display: block;
-  margin: 0 auto;
+.score {
+  position: fixed;
+  color: white;
+  margin: 10px;
+  user-select: none;
 }
